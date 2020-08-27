@@ -6,8 +6,6 @@
 ![Flask-1.1.2](https://github.com/edithsoares/Simple/blob/master/static/img/flask.png)
 
 
-##### Autor: @https://github.com/anfederico
-##### Modificado e atualizado por: @https://github.com/edithsoares
 
 # Main Features
 
@@ -48,3 +46,7 @@
 
 # Mobile-settings
 ![settings-mobile](https://github.com/edithsoares/Simple/blob/master/static/img/settings-mobile.png)
+
+
+##### Autor: @https://github.com/anfederico
+##### Modificado e atualizado por: @https://github.com/edithsoares
