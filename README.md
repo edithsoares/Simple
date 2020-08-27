@@ -6,8 +6,10 @@
 ![Flask-1.1.2](https://github.com/edithsoares/Simple/blob/master/static/img/flask.png)
 
 
+# Autor: @https://github.com/anfederico
+# Modificado e atualizado por: @https://github.com/edithsoares
 
-## Main Features
+# Main Features
 
 - Encrypted user authorizaton
 - Database initialization
