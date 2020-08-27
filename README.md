@@ -1,6 +1,6 @@
 # Simple
 
-Simple is a mini web application developed in Flask. User login and longout, user verification, create a database with encrypted password.
+'''Simple is a mini web application developed in Flask. User login and longout, user verification, create a database with encrypted password.'''
 ![Flask-1.1.2](https://github.com/edithsoares/Simple/blob/master/static/img/flask.png)
 
 
