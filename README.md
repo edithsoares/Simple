@@ -48,5 +48,3 @@
 ![settings-mobile](https://github.com/edithsoares/Simple/blob/master/static/img/settings-mobile.png)
 
 
-##### Autor: @https://github.com/anfederico
-##### Modificado e atualizado por: @https://github.com/edithsoares
