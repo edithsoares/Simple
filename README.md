@@ -1,6 +1,6 @@
 # Simple
 
-Simple is a mini web application developed in Flask.
+Simple is a mini web application developed in Flask. User login and longout, user verification, create a database with encrypted password.
 ![Flask-1.1.2](https://github.com/edithsoares/Simple/blob/master/static/img/flask.png)
 
 
@@ -25,12 +25,12 @@ Simple is a mini web application developed in Flask.
 - WTForms==2.3.3
 
 ## Setup
-``` 
+
 - git clone https://github.com/edithsoares/Simple.git
 - cd Simple
 - pip install -r requirements.txt
 - python app.py
-```
+
 
 # Home
 ![home](https://github.com/edithsoares/Simple/blob/master/static/img/home.png)
@@ -43,4 +43,3 @@ Simple is a mini web application developed in Flask.
 
 # Mobile-settings
 ![settings-mobile](https://github.com/edithsoares/Simple/blob/master/static/img/settings-mobile.png)
-![Flask-1.1.2]()
