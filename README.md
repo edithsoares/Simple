@@ -6,6 +6,7 @@
 ![Flask-1.1.2](https://github.com/edithsoares/Simple/blob/master/static/img/flask.png)
 
 
+
 ## Main Features
 
 - Encrypted user authorizaton
