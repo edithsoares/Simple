@@ -31,3 +31,16 @@ Simple is a mini web application developed in Flask.
 - pip install -r requirements.txt
 - python app.py
 ```
+
+# Home
+![home](https://github.com/edithsoares/Simple/blob/master/static/img/home.png)
+
+# Login 
+![login](https://github.com/edithsoares/Simple/blob/master/static/img/login.png)
+
+# Mobile-home
+![mobile](https://github.com/edithsoares/Simple/blob/master/static/img/mobile.png)
+
+# Mobile-settings
+![settings-mobile](https://github.com/edithsoares/Simple/blob/master/static/img/settings-mobile.png)
+![Flask-1.1.2]()
